@@ -13,7 +13,9 @@ layout: layout.html
 <div class="hi">
 <h1> 跳床體驗班</h1>
 <h4>適合各年齡及目標的跳躍課程：紓壓、健身、瘦身等 $98 優惠試堂價!</h4>
+<button class="sign-up-button"><a href="./trial/">立即報名試堂</a></button>
 </div>
+
 ### 多種運動
 我們提供多種課程，從跳床到HIIT, TRX, Pilate 讓運動多元化同時充滿樂趣。
 
@@ -50,4 +52,4 @@ $2550/十七堂
 直屬親人均可分享!
 
 ## 準備跳未?
-<a href="https://buy.stripe.com/eVacPHfasfry3JuaEM">立即報名試堂</a>
+<button class="sign-up-button"><a href="./trial/">立即報名試堂</a></button>

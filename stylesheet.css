@@ -39,5 +39,23 @@ td {
    height: 400px;
    padding-top: 40px;
    padding-left: 40px;
-   margin-right: -0.4rem;
+}
+
+.sign-up-button {
+   background-color: #2f4f7f; /* dark blue background */
+   color: #ffffff; /* white text */
+   border: none;
+   border-radius: 15px; /* rounded corners */
+   padding: 10px 20px; /* add some padding for a comfortable click area */
+   font-size: 16px;
+   font-weight: bold;
+   cursor: pointer; /* change the cursor to a pointing hand */
+}
+ 
+a {
+   text-decoration: none;
+   color: white;
+}
+.sign-up-button:hover {
+   background-color: #1a2e3f; /* slightly darker blue on hover */
 }
