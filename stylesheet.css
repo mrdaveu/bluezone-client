@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK:wght@100..900&display=swap');
+
+body {
+   font-family: "Noto Sans HK";
+   font-optical-sizing: auto;
+   font-style: normal;
+   color: black;
+   max-width: 650px;
+   margin: 0 auto;
+   padding-left: 0.4rem;
+   padding-right: 0.4rem;
+}
+
+h1 {
+   font-weight: 700;
+}
+
+h4 {
+   font-weight: 200;
+}
+
+img {
+   width: 100%;
+}
+
+td {
+   overflow-x:scroll;
+}
+
+.hi {
+   background-image: url('photos/background.jpg');
+   background-size: cover;
+   background-position: center;
+ 
+   /* Add a blue transparent darkening tint */
+   background-color: rgba(0, 0, 50, 0.6);
+   background-blend-mode: multiply;
+   color:white;
+   height: 400px;
+   padding-top: 40px;
+   padding-left: 40px;
+   margin-right: -0.4rem;
+}
