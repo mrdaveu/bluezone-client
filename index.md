@@ -11,10 +11,14 @@ layout: layout.html
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <div class="hi">
-<h1> 跳床體驗班</h1>
-<h4>適合各年齡及目標的跳躍課程：紓壓、健身、瘦身等 $98 優惠試堂價!</h4>
-<button class="sign-up-button"><a href="./trial/">立即報名試堂</a></button>
+<h1> 入嚟 BLUEZONE Studio 體驗跳床</h1>
+<h4>適合各年齡及目標的跳床班</h4>
+<button class="sign-up-button"><a href="./trial/">$98試堂優惠</a></button>
 </div>
+
+<div class="main">
+
+## 為何選BLUEZONE Studio? 
 
 ### 多種運動
 我們提供多種課程，從跳床到HIIT, TRX, Pilate 讓運動多元化同時充滿樂趣。
@@ -42,14 +46,25 @@ BLUEZONE Studio在尖沙嘴山林道，交通便利
 跳彈床可以釋放內啡肽和多巴胺，提高情緒，減輕壓力和焦慮，帶來身心愉悅感，有着輕鬆的心情身體自然能有效療癒.
 
 ## 正式收費
-$200/一堂
-$850/五堂
-(約$170/堂)
-$2550/十七堂
-(約$150/堂)
+##### $200/一堂
+##### $850/五堂
+(約<span class="bold">$170</span>/堂)
+
+##### $2550/十七堂
+(約<span class="bold">$150</span>/堂)
+
+<br>
 
 一年有效期
+
 直屬親人均可分享!
 
 ## 準備跳未?
 <button class="sign-up-button"><a href="./trial/">立即報名試堂</a></button>
+
+
+</div>
+
+<div style="background:rgb(230,230,230);padding: 10px 25px 10px 25px">
+<span style="font-size: 1rem;font-weight:300">地址: 尖沙嘴 山林道 高荔商業中心 1樓
+Address: 1/F Glory Centre, 8 Hillwood Road</span></div>
