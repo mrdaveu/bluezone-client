@@ -29,13 +29,10 @@ td {
 
 .hi::before {
    background-image: url('photos/background.jpg');
-   filter: blur(3.5px);
    background-size: cover;
    background-position: center;
  
    /* Add a blue transparent darkening tint */
-   background-color: rgba(23,38,105,0.5);
-   background-blend-mode: multiply;
    content: "";
   position: absolute;
   top: 0;
